@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ê—ÊÂ x</title>
+</head>
+<body>
+
+<table border="5" cellspacing="5"><h1> „Â‰œ” €·«„ÅÊ—</h1>
+    <tr>
+        <td>—Ê“</td>
+        <td>Õ÷Ê— €Ì«»</td>
+        <td> ò«·Ì›</td>
+    </tr>
+    <tr>
+        <td>‘‰»Â</td>
+        <td>Â„Â œ—” Â« Õ«÷—</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ìò ‘‰»Â</td>
+        <td>Â„Â œ—” Â« Õ«÷—</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> œÊ‘‰»Â</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> ”Â ‘‰»Â</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> çÂ«— ‘‰»Â</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+<table border="5" cellspacing="5"><h1>œò — ‘Ã«⁄ </h1>
+    <tr>
+        <td>—Ê“</td>
+        <td>Õ÷Ê— €Ì«»</td>
+        <td> ò«·Ì›</td>
+    </tr>
+    <tr>
+        <td>‘‰»Â</td>
+        <td>Â„Â œ—” Â« Õ«÷—</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> Ìò ‘‰»Â</td>
+        <td>Â„Â œ—” Â« Õ«÷— »Ã“ ‘Ì„Ì</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> œÊ‘‰»Â</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> ”Â ‘‰»Â</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> çÂ«— ‘‰»Â</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+</body>
+</html>
